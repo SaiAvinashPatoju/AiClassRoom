@@ -1,4 +1,4 @@
-# Lecture to Slides
+# Ai Classroom ASSISTANT
 
 Transform your lectures into professional slide presentations using AI-powered transcription and content generation.
 
